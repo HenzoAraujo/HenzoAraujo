@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner" alt="Henzo Araujo - Full-Stack Developer" width="100%" />
+  <img src="https://github.com/user-attachments/assets/1ac2adbe-61f3-4900-9477-23cbfa3369e9" alt="Henzo Araujo - Full-Stack Developer" width="100%" />
 </p>
 
 ---
@@ -11,6 +11,7 @@
 - 🤝 Aberto para colaborações e projetos profissionais.
 
 ---
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
